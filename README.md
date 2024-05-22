@@ -1,4 +1,4 @@
-# Supplementary code for Sparse Concept Bottleneck Models: Gumbel tricks in Contrastive Learning
+# Supplementary code for "Sparse Concept Bottleneck Models: Gumbel tricks in Contrastive Learning"
 
 ## How to install
 ```bash
